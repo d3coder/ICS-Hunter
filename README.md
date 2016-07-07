@@ -3,9 +3,9 @@ a simple tcp port scanner that specially designed to track industrial control sy
 this tool is able to detect and display this items :
 
 <ul>
-<li><code>0</code> - open ports</li>
-<li><code>1</code> - port banner</li>
-<li><code>2</code> - ics device names</li>
+<li> - open ports</li>
+<li> - port banner</li>
+<li> - ics device names</li>
 </ul>
 Usage:
 <code>
