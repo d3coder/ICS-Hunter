@@ -7,4 +7,3 @@ Usage:
 </code>
 
 
-![Alt text](http://bayanbox.ir/view/8048653318855743016/ics-hunter.jpg "ICS Hunter")
