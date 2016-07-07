@@ -1,10 +1,12 @@
 # ics-hunter
 a simple tcp port scanner that specially designed to track industrial control systems 
 this tool is able to detect and display this items :
-open ports
-banners
-ics device names
 
+<ul>
+<li><code>0</code> - open ports</li>
+<li><code>1</code> - port banner</li>
+<li><code>2</code> - ics device names</li>
+</ul>
 Usage:
 <code>
  ics.pl [host]
