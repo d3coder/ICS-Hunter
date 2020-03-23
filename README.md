@@ -1,6 +1,6 @@
 # ICS Hunter
-ics hunter in general is a tcp port scanner that specially designed to track industrial control systems 
-.this tool is able to detect and display this items :
+ICS Hunter in general is a tcp port scanner that specially designed to track industrial control systems 
+.This tool is able to detect and display these items :
 
 <ul>
 <li> - open ports</li>
